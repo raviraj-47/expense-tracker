@@ -1,0 +1,5 @@
+*.class
+.DS_Store
+logs/*.log
+src/logs/expenses-log.txt
+tempCodeRunnerFile.java
