@@ -165,7 +165,7 @@ Invalid inputs will result in user-friendly error messages and re-prompting.
 
 Ravi Raj 
 Email: ravi_2312res1015.iitp.ac.in 
-GitHub: [your-github-profile](https://github.com/raviraj-47)
+GitHub: https://github.com/raviraj-47
 
 ---
 
